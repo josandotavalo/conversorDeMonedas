@@ -19,3 +19,8 @@ Este proyecto da al usuario la posibilidad de convertir las monedas en USD, ARS,
 **Finalización del programa:**
 
 ![Descripción de la imagen](./figuras/fig4.png)
+
+## Gif del challenge
+En este gif se indica el funcionamiento del challenge
+
+![Descripción del GIF](./conversor.gif)
